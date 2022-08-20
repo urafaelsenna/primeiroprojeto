@@ -1,3 +1,7 @@
 Olá! Vim salvar o mundo!
 
+<<<<<<< HEAD
 Frase mais típica do mundo.
+=======
+Mas preciso da sua ajuda.
+>>>>>>> 25c2978277bf139fa429c07c175411768e1bab24
